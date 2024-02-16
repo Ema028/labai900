@@ -6,13 +6,13 @@ modelo para previsão de aluguel de bicicletas com azure
 
 2.Criar um novo trabalho de ML automatizado com as configurações:
 
-  Tarefa: Regressão
+   Tarefa: Regressão
   
-  Tipo de dados: Tabular
+   Tipo de dados: Tabular
   
-  Fonte de dados: Web files
+   Fonte de dados: Web files
   
-  Web URL: https://aka.ms/bike-rentals
+   Web URL: https://aka.ms/bike-rentals
   
 3. Selecionar os dados e continuar com as configurações:
    
