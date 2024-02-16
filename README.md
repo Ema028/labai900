@@ -16,29 +16,29 @@ modelo para previsão de aluguel de bicicletas com azure
   
 3. Selecionar os dados e continuar com as configurações:
    
-  Coluna de dados: rentals (integer)
+   Coluna de dados: rentals (integer)
   
-  Configurações adicionais:
+   Configurações adicionais:
   
-    Métrica primária: NormalizedRootMeanSquaredError
+     Métrica primária: NormalizedRootMeanSquaredError
     
-    Explicar melhor modelo: não selecionado
+     Explicar melhor modelo: não selecionado
     
-    Modelos Permitidos: RandomForest e LightGBM
+     Modelos Permitidos: RandomForest e LightGBM
     
-  Limites:
+   Limites:
   
-    Máximo de avaliações: 3
+     Máximo de avaliações: 3
     
-    Máximo de avaliações simultâneas: 3
+     Máximo de avaliações simultâneas: 3
     
-    Máximo de nós: 3
+     Máximo de nós: 3
     
-    Limite de pontuação métrica: 0,085
+     Limite de pontuação métrica: 0,085
     
-    Tempo limite de experimento: 15
+     Tempo limite de experimento: 15
     
-    Tempo limite de iteração: 15
+     Tempo limite de iteração: 15
     
 4.Enviar trabalho
   
