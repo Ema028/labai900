@@ -13,6 +13,7 @@ modelo para previsão de aluguel de bicicletas com azure
     Fonte de dados: Web files
   
     Web URL: https://aka.ms/bike-rentals
+    
    
 3. Selecionar os dados e continuar com as configurações:
    
@@ -39,6 +40,7 @@ modelo para previsão de aluguel de bicicletas com azure
     Tempo limite de experimento: 15
     
     Tempo limite de iteração: 15
+
     
 4.Enviar trabalho
   
