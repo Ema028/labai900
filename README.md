@@ -39,6 +39,6 @@ modelo para previsão de aluguel de bicicletas com azure
     Tempo limite de experimento: 15
     
     Tempo limite de iteração: 15
-   
-5. Enviar trabalho
+    
+4.Enviar trabalho
   
